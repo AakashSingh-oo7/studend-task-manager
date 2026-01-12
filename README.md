@@ -3,6 +3,7 @@
 A **full‑stack task management web application** built as **Project 1** to demonstrate end‑to‑end Full Stack Development skills. This project follows the given PDF specification closely and is suitable for **college submission, internships, and fresher interviews**.
 ---
 **Walkthrough Video**
+---
 https://github.com/user-attachments/assets/ebaaeebc-1f91-4eb6-a353-5ee6d86da035
 ---
 
