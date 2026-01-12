@@ -5,6 +5,7 @@ A **full‑stack task management web application** built as **Project 1** to dem
 **Walkthrough Video**
 
 https://github.com/user-attachments/assets/ebaaeebc-1f91-4eb6-a353-5ee6d86da035
+
 ---
 **Deployment Link**
 
